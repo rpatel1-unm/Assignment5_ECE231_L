@@ -1,4 +1,3 @@
-# Assignment5_ECE231_L
 # Assignment 5 - Vectors, Strings, and File Operations
 
 ## Description
